@@ -1,3 +1,3 @@
-# Pygame
-# Started by making a simple rock,paper, scissors game
 # Created a ping pong game in python
+
+This aims to use object oriented progarmming to create an interactive game.
